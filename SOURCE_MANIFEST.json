@@ -1,0 +1,1461 @@
+{
+  "description": "Sources from verified public v1–v7 and v8 release archives. Mathematical proofs, programs, certificates and Lean sources are byte-for-byte copies. Four execution metadata JSON files omit private paths/session identifiers. Historical version manifests retain archive hashes; sha256 below describes this public source tree.",
+  "files": [
+    {
+      "path": "research/ARCHIVE_MANIFEST.json",
+      "bytes": 24424,
+      "sha256": "26cad0c0ef1cafc30aa518e1f32f70589ae4c4b8853d0f7a69cfb37ce1704268",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "26cad0c0ef1cafc30aa518e1f32f70589ae4c4b8853d0f7a69cfb37ce1704268"
+    },
+    {
+      "path": "research/CONTINUATION_ja.md",
+      "bytes": 8311,
+      "sha256": "a365ad1c4e138f1692a5182ea730a0aae1ba221edfe174366fa70799663eb4a5",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "a365ad1c4e138f1692a5182ea730a0aae1ba221edfe174366fa70799663eb4a5"
+    },
+    {
+      "path": "research/PROGRESS_v3_ja.md",
+      "bytes": 11499,
+      "sha256": "8e6d95f244c380274dca9487a1c50a4497727955d7abc56ff56e425d6a8c7c6c",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "8e6d95f244c380274dca9487a1c50a4497727955d7abc56ff56e425d6a8c7c6c"
+    },
+    {
+      "path": "research/PROGRESS_v4_ja.md",
+      "bytes": 17677,
+      "sha256": "ce4a0f2a8b65d52c82ef30b4dca889887ae61c9055d4f25dfca18e2d6ac28c5f",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ce4a0f2a8b65d52c82ef30b4dca889887ae61c9055d4f25dfca18e2d6ac28c5f"
+    },
+    {
+      "path": "research/PROGRESS_v5_ja.md",
+      "bytes": 12446,
+      "sha256": "f97182fd79f139640c88d8e0881e7051b8973b036e40bf65057cd36330d87a76",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "f97182fd79f139640c88d8e0881e7051b8973b036e40bf65057cd36330d87a76"
+    },
+    {
+      "path": "research/PROGRESS_v6_ja.md",
+      "bytes": 14491,
+      "sha256": "b5033434b21884e28b07bd54171818ee7d6350b14f5b3fb9c9d695563e0fd2eb",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "b5033434b21884e28b07bd54171818ee7d6350b14f5b3fb9c9d695563e0fd2eb"
+    },
+    {
+      "path": "research/PROGRESS_v7_ja.md",
+      "bytes": 8111,
+      "sha256": "b2580a069ac88c448079b6bf5659b8cfa4f16b8a9932f14f98621ce58516a5c5",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "b2580a069ac88c448079b6bf5659b8cfa4f16b8a9932f14f98621ce58516a5c5"
+    },
+    {
+      "path": "research/README.md",
+      "bytes": 7600,
+      "sha256": "9f02a04b1aa731403cc0f60559d4321168da102e38662f920fa805a67b723306",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "9f02a04b1aa731403cc0f60559d4321168da102e38662f920fa805a67b723306"
+    },
+    {
+      "path": "research/README_ja.md",
+      "bytes": 8774,
+      "sha256": "929d1fa85e1af1330cf358aff049b488265d0753086fb0670f7551b449bc3b40",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "929d1fa85e1af1330cf358aff049b488265d0753086fb0670f7551b449bc3b40"
+    },
+    {
+      "path": "research/RESEARCH_LOG.md",
+      "bytes": 1873,
+      "sha256": "2f28803f8b42841f3205c5b19cb6dfe4bfb62c875c16046468f5299ac4ca7724",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "2f28803f8b42841f3205c5b19cb6dfe4bfb62c875c16046468f5299ac4ca7724"
+    },
+    {
+      "path": "research/adjacent_rows_exclusion.md",
+      "bytes": 5143,
+      "sha256": "43ac89e1e33d23493c17be64fa8ad90a00c5273983237db58c46169f0dad76c3",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "43ac89e1e33d23493c17be64fa8ad90a00c5273983237db58c46169f0dad76c3"
+    },
+    {
+      "path": "research/continuation_arithmetic.md",
+      "bytes": 11793,
+      "sha256": "4bf0d24434486420cde0841393a2399c25bbed87cabaf0dbb21e46dd30d2955b",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "4bf0d24434486420cde0841393a2399c25bbed87cabaf0dbb21e46dd30d2955b"
+    },
+    {
+      "path": "research/continuation_audit.json",
+      "bytes": 2721,
+      "sha256": "99f21206e7099c0da5bc7636b6abd18236a3867a8ff532a10eb4ed2f7fcf6a89",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "99f21206e7099c0da5bc7636b6abd18236a3867a8ff532a10eb4ed2f7fcf6a89"
+    },
+    {
+      "path": "research/entropy_phi_reduction.md",
+      "bytes": 7908,
+      "sha256": "dea356bd7153a3df347a8cbe9473f98fd9a10affa8b578887300654d6d8dcfcf",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "dea356bd7153a3df347a8cbe9473f98fd9a10affa8b578887300654d6d8dcfcf"
+    },
+    {
+      "path": "research/equal_effective_upper.md",
+      "bytes": 5463,
+      "sha256": "ee1c610aa05a24335e51e299b39e1dec09100ae16290e954c2ffed6a820eb8a4",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ee1c610aa05a24335e51e299b39e1dec09100ae16290e954c2ffed6a820eb8a4"
+    },
+    {
+      "path": "research/finite_prime_effective_index.py",
+      "bytes": 6496,
+      "sha256": "6e3841457768689b57f48fadcafa1a5a64010350f265a90237b0a34a88036637",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "6e3841457768689b57f48fadcafa1a5a64010350f265a90237b0a34a88036637"
+    },
+    {
+      "path": "research/finite_prime_effective_index_verification.json",
+      "bytes": 833,
+      "sha256": "01f6a55ddacb664fcdc3a44037dca1d4c9266f25ff422d4a0d023252a7a45e2d",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "01f6a55ddacb664fcdc3a44037dca1d4c9266f25ff422d4a0d023252a7a45e2d"
+    },
+    {
+      "path": "research/finite_prime_outer_exclusion.py",
+      "bytes": 10842,
+      "sha256": "560ecd914988ffc47a03b3a48d93b154caaae2a69fb3783cee2872d150b4e919",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "560ecd914988ffc47a03b3a48d93b154caaae2a69fb3783cee2872d150b4e919"
+    },
+    {
+      "path": "research/finite_prime_outer_verification.json",
+      "bytes": 637,
+      "sha256": "4ca7c74507dee1430c11d2eccb954325a76a4415a58de4e6529b621a71c08128",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "4ca7c74507dee1430c11d2eccb954325a76a4415a58de4e6529b621a71c08128"
+    },
+    {
+      "path": "research/finite_small_j_prime_exclusion.py",
+      "bytes": 7772,
+      "sha256": "49c9afbb453f0f134e8b5cd03f4990dd1b83798c75ecb61a00a829915b3b1c9a",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "49c9afbb453f0f134e8b5cd03f4990dd1b83798c75ecb61a00a829915b3b1c9a"
+    },
+    {
+      "path": "research/finite_small_j_prime_verification.json",
+      "bytes": 979,
+      "sha256": "0b043337ec8a71533abd8c9923e7c341db77ea8c416f53296ad7ddc90d04a776",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "0b043337ec8a71533abd8c9923e7c341db77ea8c416f53296ad7ddc90d04a776"
+    },
+    {
+      "path": "research/global_height_bound.md",
+      "bytes": 8815,
+      "sha256": "03cd1bf0a8f827b01137c4e4b7c129047bba5c1eea7591bd9c09f51dd4b54d10",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "03cd1bf0a8f827b01137c4e4b7c129047bba5c1eea7591bd9c09f51dd4b54d10"
+    },
+    {
+      "path": "research/hensel_upper_experiment.py",
+      "bytes": 4761,
+      "sha256": "1edc421a242fb9aa77f036c70bee42f589feb8d22b555683c6b63482f2286b74",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "1edc421a242fb9aa77f036c70bee42f589feb8d22b555683c6b63482f2286b74"
+    },
+    {
+      "path": "research/independent_verification_N20.log",
+      "bytes": 1197,
+      "sha256": "a7eb6b403ab4aa9248e9db4f3911b12aa761dab9e6b0057993f4439f8c7b06ed",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "a7eb6b403ab4aa9248e9db4f3911b12aa761dab9e6b0057993f4439f8c7b06ed"
+    },
+    {
+      "path": "research/lower_branch_reduction.md",
+      "bytes": 10585,
+      "sha256": "2a3345e2085c87d1bc7eac5f18f2c971e90ccd70e13f008278d1806ba19a7525",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "2a3345e2085c87d1bc7eac5f18f2c971e90ccd70e13f008278d1806ba19a7525"
+    },
+    {
+      "path": "research/modular_reduction_experiment.py",
+      "bytes": 2977,
+      "sha256": "6e6c895f77cc68e67782d377bd0dc8f6e13e0151fa6a5c341317be11dca1500c",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "6e6c895f77cc68e67782d377bd0dc8f6e13e0151fa6a5c341317be11dca1500c"
+    },
+    {
+      "path": "research/prime_divisibility_reduction.md",
+      "bytes": 11830,
+      "sha256": "ba7e6e337c79580c229109930d26f67d708f06cb837f11131e9455bf78ea43cd",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ba7e6e337c79580c229109930d26f67d708f06cb837f11131e9455bf78ea43cd"
+    },
+    {
+      "path": "research/prime_first_ell_one.md",
+      "bytes": 7619,
+      "sha256": "fc3068cc7b5d1e64b951c612809e09f857e6cb5bd5074364bfbf090b5045ae0d",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "fc3068cc7b5d1e64b951c612809e09f857e6cb5bd5074364bfbf090b5045ae0d"
+    },
+    {
+      "path": "research/prime_lower_branch_remaining.md",
+      "bytes": 7791,
+      "sha256": "02f2ce9ed7208c633776e0b7966976af51aad9359cbd2b6e0bac28f9cfc2d1b6",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "02f2ce9ed7208c633776e0b7966976af51aad9359cbd2b6e0bac28f9cfc2d1b6"
+    },
+    {
+      "path": "research/prime_upper_index_large_gap.md",
+      "bytes": 13306,
+      "sha256": "4772242d11b126f7d67169117e6fd2471f69afd74f36c8082500cc3aca3d6c0d",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "4772242d11b126f7d67169117e6fd2471f69afd74f36c8082500cc3aca3d6c0d"
+    },
+    {
+      "path": "research/progress_v3_audit.json",
+      "bytes": 10337,
+      "sha256": "a232e73ebb671564edd902db7a608664d94a978e46a55bcfdd20e64c1a0e3b45",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "a232e73ebb671564edd902db7a608664d94a978e46a55bcfdd20e64c1a0e3b45"
+    },
+    {
+      "path": "research/progress_v4_audit.json",
+      "bytes": 30763,
+      "sha256": "bf25c8f51f3a368c211a7edacf3bfeb170af11f37649b665aa57dfd24f8f7aa2",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "cbaa0cad2fdffdd685bb577c977c63efaabd20d86ca2258ba0551d9cfa7e0b46",
+      "publication_change": "Redacted execution paths and session identifiers only."
+    },
+    {
+      "path": "research/proof_reduction.md",
+      "bytes": 22736,
+      "sha256": "f4147377a41ee78b35df9a5bce922f15cf93ce116ab0b39e42f39d1ab314e4bf",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "f4147377a41ee78b35df9a5bce922f15cf93ce116ab0b39e42f39d1ab314e4bf"
+    },
+    {
+      "path": "research/sharp_q_bounds.md",
+      "bytes": 15088,
+      "sha256": "bab0debf8343f24125b0382e1e03c81c832c192213b05bdea65e7c9601826eb3",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "bab0debf8343f24125b0382e1e03c81c832c192213b05bdea65e7c9601826eb3"
+    },
+    {
+      "path": "research/sharp_q_ratio_proof.md",
+      "bytes": 15088,
+      "sha256": "bab0debf8343f24125b0382e1e03c81c832c192213b05bdea65e7c9601826eb3",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "bab0debf8343f24125b0382e1e03c81c832c192213b05bdea65e7c9601826eb3"
+    },
+    {
+      "path": "research/upper_order_and_prime_support.md",
+      "bytes": 4452,
+      "sha256": "334a146f9ebc95b8781c07cd93408d1e130d86c1e91ca9765135af8693e13116",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "334a146f9ebc95b8781c07cd93408d1e130d86c1e91ca9765135af8693e13116"
+    },
+    {
+      "path": "research/v4_ell_one_divisor_certificate.py",
+      "bytes": 9617,
+      "sha256": "6c66f05b2284559601767d0ad2e5e017d59c676828730eb91416048c89105511",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "6c66f05b2284559601767d0ad2e5e017d59c676828730eb91416048c89105511"
+    },
+    {
+      "path": "research/v4_ell_one_divisor_verification.json",
+      "bytes": 550,
+      "sha256": "e511a4d6586b67b68638c0d621ef1a72b7c8ca75aa1fe02766909bf29e1c8fa5",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "e511a4d6586b67b68638c0d621ef1a72b7c8ca75aa1fe02766909bf29e1c8fa5"
+    },
+    {
+      "path": "research/v4_ell_one_large_prime_checks.json",
+      "bytes": 416,
+      "sha256": "eadb9872d77a412c0bc325695877101104388a679fcef25271941664933b52c0",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "eadb9872d77a412c0bc325695877101104388a679fcef25271941664933b52c0"
+    },
+    {
+      "path": "research/v4_ell_one_large_prime_checks.py",
+      "bytes": 2127,
+      "sha256": "993d09908f85400db9c69df3d25775663dd880c3802c430b96775039a9407fa5",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "993d09908f85400db9c69df3d25775663dd880c3802c430b96775039a9407fa5"
+    },
+    {
+      "path": "research/v4_ell_one_large_prime_strengthening.md",
+      "bytes": 4967,
+      "sha256": "8f41557a20139d18f53c02ecf3e92775567a092c8b67783b14a420a81050e6f7",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "8f41557a20139d18f53c02ecf3e92775567a092c8b67783b14a420a81050e6f7"
+    },
+    {
+      "path": "research/v4_entropy_constants.py",
+      "bytes": 1694,
+      "sha256": "fc1db8e0ff8fb7369d7bf44669bdcfbf589a66a18363e0d61c64f405b9321d1b",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "fc1db8e0ff8fb7369d7bf44669bdcfbf589a66a18363e0d61c64f405b9321d1b"
+    },
+    {
+      "path": "research/v4_entropy_constants_verification.json",
+      "bytes": 857,
+      "sha256": "e2fc6cef32d4d31107f553774aed9609f008cb50bae8b2a7785a8941d6bc3ac1",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "e2fc6cef32d4d31107f553774aed9609f008cb50bae8b2a7785a8941d6bc3ac1"
+    },
+    {
+      "path": "research/v4_first_complement_two_complete.md",
+      "bytes": 7437,
+      "sha256": "70ee14155c89f0f2ac5d93b435897aab9e80ec7ed1e412e5f2f653035bef8aee",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "70ee14155c89f0f2ac5d93b435897aab9e80ec7ed1e412e5f2f653035bef8aee"
+    },
+    {
+      "path": "research/v4_first_complement_two_lower.md",
+      "bytes": 5086,
+      "sha256": "47395d538bc03856e90e0523e02b736d132c2f88bfc906d80cc85bf485f35aa7",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "47395d538bc03856e90e0523e02b736d132c2f88bfc906d80cc85bf485f35aa7"
+    },
+    {
+      "path": "research/v4_first_complement_two_lower.py",
+      "bytes": 9018,
+      "sha256": "e834232c5e75a47063cc8e2138f89d5694de2406ef5cd6d1d1c310b789dc3e87",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "e834232c5e75a47063cc8e2138f89d5694de2406ef5cd6d1d1c310b789dc3e87"
+    },
+    {
+      "path": "research/v4_first_complement_two_lower_verification.json",
+      "bytes": 846,
+      "sha256": "b033c94138bb1ec8adb91c9642809d2be57ae60b263062226de5165a6aa6bb0f",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "b033c94138bb1ec8adb91c9642809d2be57ae60b263062226de5165a6aa6bb0f"
+    },
+    {
+      "path": "research/v4_formal/Divisibility.lean",
+      "bytes": 5790,
+      "sha256": "be8e12d4e46e52fb3eb82bd419589273144ab78e1989284ce35188f81ace0a0c",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "be8e12d4e46e52fb3eb82bd419589273144ab78e1989284ce35188f81ace0a0c"
+    },
+    {
+      "path": "research/v4_formal/README.md",
+      "bytes": 3876,
+      "sha256": "2d8d624a512ee59171f9ddd0785480d53b54c4ee0b06c149310e1aafced0058d",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "2d8d624a512ee59171f9ddd0785480d53b54c4ee0b06c149310e1aafced0058d"
+    },
+    {
+      "path": "research/v4_formal/kernel_check.json",
+      "bytes": 1314,
+      "sha256": "e8987cc029c60b026bf99c2e86ad78d80f2b789c1343fa6705589f122828bd6e",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "c6e457119a55a8bac18e0b1930b2cea0f0b919f23913a6acd0436db083123dbf",
+      "publication_change": "Redacted execution paths and session identifiers only."
+    },
+    {
+      "path": "research/v4_formal/kernel_check.log",
+      "bytes": 400,
+      "sha256": "bb50927a05141eefc5c202699397a0541c74c73982d00ff355a9f52c006ac5f3",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "bb50927a05141eefc5c202699397a0541c74c73982d00ff355a9f52c006ac5f3"
+    },
+    {
+      "path": "research/v4_formal/lakefile.toml",
+      "bytes": 302,
+      "sha256": "98bef1b850ee316fbc7994b743e440c29b04b2063fbe2dcf568042cbc799cc90",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "98bef1b850ee316fbc7994b743e440c29b04b2063fbe2dcf568042cbc799cc90"
+    },
+    {
+      "path": "research/v4_formal/lean-toolchain",
+      "bytes": 25,
+      "sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c"
+    },
+    {
+      "path": "research/v4_formal/own_executable_path.c",
+      "bytes": 816,
+      "sha256": "8da312e4314bded7391a8ff62686b1a559aa118e2dd3e0dee58afaf9601f410c",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "8da312e4314bded7391a8ff62686b1a559aa118e2dd3e0dee58afaf9601f410c"
+    },
+    {
+      "path": "research/v4_lower_l1_band.md",
+      "bytes": 3813,
+      "sha256": "e883e2149c9560b8c042c10a66b61fec278ae7cbf2dbd8561f9cd6fa03f4eb1b",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "e883e2149c9560b8c042c10a66b61fec278ae7cbf2dbd8561f9cd6fa03f4eb1b"
+    },
+    {
+      "path": "research/v4_lower_l1_band.py",
+      "bytes": 5018,
+      "sha256": "42a01905fe8e7f0d3bd3440aa0d44c4ba4ec537c292f6a017e8ec1f0dc41ce01",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "42a01905fe8e7f0d3bd3440aa0d44c4ba4ec537c292f6a017e8ec1f0dc41ce01"
+    },
+    {
+      "path": "research/v4_lower_l1_band_verification.json",
+      "bytes": 504,
+      "sha256": "47a7c3bb0c92ee199cc9e3f10f0947153d3bdc3d6dbe3a574c2b87946996aa93",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "47a7c3bb0c92ee199cc9e3f10f0947153d3bdc3d6dbe3a574c2b87946996aa93"
+    },
+    {
+      "path": "research/v4_lower_l1_single_top.md",
+      "bytes": 5950,
+      "sha256": "3835bbdc454f8976c1e91c9d92eaed9c5a5ccfb0562a3950cfe2cde2ba1b1cab",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "3835bbdc454f8976c1e91c9d92eaed9c5a5ccfb0562a3950cfe2cde2ba1b1cab"
+    },
+    {
+      "path": "research/v4_lower_l1_single_top.py",
+      "bytes": 8722,
+      "sha256": "7e012bc0b9ccb0d94d52cfd53891336c6188d446ed1ff655893109a8f5ded8aa",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "7e012bc0b9ccb0d94d52cfd53891336c6188d446ed1ff655893109a8f5ded8aa"
+    },
+    {
+      "path": "research/v4_lower_l1_single_top_verification.json",
+      "bytes": 613,
+      "sha256": "d1bd7a2e159abad37776d0472a53d368949a75fa58e2728697c2f829188b9052",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "d1bd7a2e159abad37776d0472a53d368949a75fa58e2728697c2f829188b9052"
+    },
+    {
+      "path": "research/v4_prime_ell_two.md",
+      "bytes": 4944,
+      "sha256": "756e81f3c62428a2be86ae0370b82f707586cb1db04a30945dbce3e6f2957b58",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "756e81f3c62428a2be86ae0370b82f707586cb1db04a30945dbce3e6f2957b58"
+    },
+    {
+      "path": "research/v4_prime_ell_two_finite.py",
+      "bytes": 9342,
+      "sha256": "d37514982a15c5711bd17e41cb037a13ecbf072326b14138a2326136895309de",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "d37514982a15c5711bd17e41cb037a13ecbf072326b14138a2326136895309de"
+    },
+    {
+      "path": "research/v4_prime_ell_two_finite_certificates.json",
+      "bytes": 1934,
+      "sha256": "8753e6310eac0462f90f72de40fd8f7a593211d8c51f49910862eb93b805f4c3",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "8753e6310eac0462f90f72de40fd8f7a593211d8c51f49910862eb93b805f4c3"
+    },
+    {
+      "path": "research/v4_prime_ell_two_finite_verification.json",
+      "bytes": 447,
+      "sha256": "e2587c6c2fe175275ce0760ab43659236be2fa5e17af48ca9ce373bfb086aca3",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "e2587c6c2fe175275ce0760ab43659236be2fa5e17af48ca9ce373bfb086aca3"
+    },
+    {
+      "path": "research/v4_prime_power_experiment.json",
+      "bytes": 2521,
+      "sha256": "9615c58b3afb7e3bccb9d72dff20c4706800d583804d826c9de65032b3088c74",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "9615c58b3afb7e3bccb9d72dff20c4706800d583804d826c9de65032b3088c74"
+    },
+    {
+      "path": "research/v4_prime_power_experiment.py",
+      "bytes": 3909,
+      "sha256": "f450bdf4878ed1d535d2bd198b38ed80007c5cfd20a769fd68c95f863a8343e0",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "f450bdf4878ed1d535d2bd198b38ed80007c5cfd20a769fd68c95f863a8343e0"
+    },
+    {
+      "path": "research/v4_prime_power_precision.md",
+      "bytes": 4744,
+      "sha256": "67b6dd07b684388e53b05f68af1a951c80f685da749f4fdf9abde927d72ff22d",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "67b6dd07b684388e53b05f68af1a951c80f685da749f4fdf9abde927d72ff22d"
+    },
+    {
+      "path": "research/v4_prime_power_reduction.md",
+      "bytes": 9387,
+      "sha256": "5431ce21df472b1aaf973593590486cd38fa7ae92fcd8bf6461f67f2e82dbd67",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "5431ce21df472b1aaf973593590486cd38fa7ae92fcd8bf6461f67f2e82dbd67"
+    },
+    {
+      "path": "research/v4_prime_power_verification.json",
+      "bytes": 452,
+      "sha256": "66b5d7ec87f5db686cd188e19086ab4b92b57dbcb75d0aaf6b3d1bc23fb47b2a",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "66b5d7ec87f5db686cd188e19086ab4b92b57dbcb75d0aaf6b3d1bc23fb47b2a"
+    },
+    {
+      "path": "research/v4_prime_power_verify.py",
+      "bytes": 3860,
+      "sha256": "97e9b3082d728d045e8af3ae4ec55b9a732b08750d4dd4681a7a9b5784be784a",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "97e9b3082d728d045e8af3ae4ec55b9a732b08750d4dd4681a7a9b5784be784a"
+    },
+    {
+      "path": "research/v4_upper_complement_two.md",
+      "bytes": 5806,
+      "sha256": "a4693939224f221f63e845f4a23bb6856386a7f108dbde236237457b92845a11",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "a4693939224f221f63e845f4a23bb6856386a7f108dbde236237457b92845a11"
+    },
+    {
+      "path": "research/v4_upper_complement_two_complete.md",
+      "bytes": 6486,
+      "sha256": "6ede7d8ac795924f74349ae3731f93f573d9bf7ee48cb6f90f2cfcbb12390931",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "6ede7d8ac795924f74349ae3731f93f573d9bf7ee48cb6f90f2cfcbb12390931"
+    },
+    {
+      "path": "research/v4_upper_complement_two_dge3.md",
+      "bytes": 4250,
+      "sha256": "87e9de419196c172f758d4b506e596136141af00ca19087d6480151f2024c572",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "87e9de419196c172f758d4b506e596136141af00ca19087d6480151f2024c572"
+    },
+    {
+      "path": "research/v4_upper_complement_two_dge3.py",
+      "bytes": 8593,
+      "sha256": "ac289061134d5a4b802ce242a7833dcff8e97132d3c672a317f29ec3e0df6082",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ac289061134d5a4b802ce242a7833dcff8e97132d3c672a317f29ec3e0df6082"
+    },
+    {
+      "path": "research/v4_upper_complement_two_dge3_verification.json",
+      "bytes": 603,
+      "sha256": "4d7032cef44d3a580c8de3c836508236f127866ed8235c1dbb8b63cc456056a3",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "4d7032cef44d3a580c8de3c836508236f127866ed8235c1dbb8b63cc456056a3"
+    },
+    {
+      "path": "research/v4_upper_complement_two_j1.cpp",
+      "bytes": 7717,
+      "sha256": "c047358e2100c4e93870aac40f5a5cf941272671ff0c079535e74a1a617805c5",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "c047358e2100c4e93870aac40f5a5cf941272671ff0c079535e74a1a617805c5"
+    },
+    {
+      "path": "research/v4_upper_complement_two_j1_certification.md",
+      "bytes": 6047,
+      "sha256": "22271fabeadab684c7ff01c4b7496fc6b86039cfc0949a45879424b7c127569f",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "22271fabeadab684c7ff01c4b7496fc6b86039cfc0949a45879424b7c127569f"
+    },
+    {
+      "path": "research/v4_upper_complement_two_j1_report.json",
+      "bytes": 513,
+      "sha256": "a460c86f07a13cfb3c3fd78d3db71db3f9f4687d7ae4f415b0f83dbfd30aebdb",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "a460c86f07a13cfb3c3fd78d3db71db3f9f4687d7ae4f415b0f83dbfd30aebdb"
+    },
+    {
+      "path": "research/v4_upper_complement_two_j1_verification.json",
+      "bytes": 761,
+      "sha256": "c6100cd118e7d8e079b3e82bba94f509adb9af3d0178e261128b3bfad04bf455",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "c6100cd118e7d8e079b3e82bba94f509adb9af3d0178e261128b3bfad04bf455"
+    },
+    {
+      "path": "research/v4_upper_complement_two_j1_verify.cpp",
+      "bytes": 7578,
+      "sha256": "6e5c3daa2bb4c4fd7443eda6a9d2cee28e50f3c64672c3609f38073f3958d001",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "6e5c3daa2bb4c4fd7443eda6a9d2cee28e50f3c64672c3609f38073f3958d001"
+    },
+    {
+      "path": "research/v4_upper_complement_two_l1.cpp",
+      "bytes": 8411,
+      "sha256": "7a6a8c5689047bf949a20dd7d008a15ceb240c943445a5e40e4149ddba6a2c8d",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "7a6a8c5689047bf949a20dd7d008a15ceb240c943445a5e40e4149ddba6a2c8d"
+    },
+    {
+      "path": "research/v4_upper_complement_two_l1_certification.md",
+      "bytes": 5662,
+      "sha256": "d39406b7fe22d309c32e233b7b035be17da706b6ccb5c0252aba3785ec21710b",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "d39406b7fe22d309c32e233b7b035be17da706b6ccb5c0252aba3785ec21710b"
+    },
+    {
+      "path": "research/v4_upper_complement_two_l1_extended_report.json",
+      "bytes": 551,
+      "sha256": "dc51fabb8bb0e12b5094a6ab6cbd45ab6544165fa78415ed3d9742463e3c21cf",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "dc51fabb8bb0e12b5094a6ab6cbd45ab6544165fa78415ed3d9742463e3c21cf"
+    },
+    {
+      "path": "research/v4_upper_complement_two_l1_extended_verification.json",
+      "bytes": 833,
+      "sha256": "123bb19a6f13de97535a9172c79b7708ea2701e4e7cca47c76ed0ec8151b4338",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "123bb19a6f13de97535a9172c79b7708ea2701e4e7cca47c76ed0ec8151b4338"
+    },
+    {
+      "path": "research/v4_upper_complement_two_l1_verify.cpp",
+      "bytes": 7992,
+      "sha256": "a73533116a050453aebd525afa9c7f45462d7ed5f0ad4a9492e69412e71a2717",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "a73533116a050453aebd525afa9c7f45462d7ed5f0ad4a9492e69412e71a2717"
+    },
+    {
+      "path": "research/v4_upper_complement_two_sharper_bounds.md",
+      "bytes": 3874,
+      "sha256": "336023ffd0daec2c7abd0d2896f63a2581171fe24c5be882b73212d0fa940cf4",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "336023ffd0daec2c7abd0d2896f63a2581171fe24c5be882b73212d0fa940cf4"
+    },
+    {
+      "path": "research/v4_upper_first_complement_two.md",
+      "bytes": 6589,
+      "sha256": "21686c7bff1777c5e46f78faea99aa1dc747becb8fdb874ca1008b9813f84679",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "21686c7bff1777c5e46f78faea99aa1dc747becb8fdb874ca1008b9813f84679"
+    },
+    {
+      "path": "research/v4_upper_first_complement_two_ege3.md",
+      "bytes": 4130,
+      "sha256": "89223e1e68f5d1c14b319e8485680ed04c00ab53c62bcd2ea5772fa64bede801",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "89223e1e68f5d1c14b319e8485680ed04c00ab53c62bcd2ea5772fa64bede801"
+    },
+    {
+      "path": "research/v4_upper_first_complement_two_ege3.py",
+      "bytes": 7692,
+      "sha256": "57ffd19e8d7423d31a7f55f2eea2e72c667b0e0f4419aa43501596d444f2cb7e",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "57ffd19e8d7423d31a7f55f2eea2e72c667b0e0f4419aa43501596d444f2cb7e"
+    },
+    {
+      "path": "research/v4_upper_first_complement_two_ege3_verification.json",
+      "bytes": 610,
+      "sha256": "f1debd5a73f573a729aa5f041febc0c1ea729c47eed3568051f013066c97a21c",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "f1debd5a73f573a729aa5f041febc0c1ea729c47eed3568051f013066c97a21c"
+    },
+    {
+      "path": "research/v4_upper_interval_verifier.md",
+      "bytes": 4652,
+      "sha256": "4ae06227f8fa824193582854aa9d25c7e4585077cc235f52f6304726dc23d970",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "4ae06227f8fa824193582854aa9d25c7e4585077cc235f52f6304726dc23d970"
+    },
+    {
+      "path": "research/v4_upper_j1_pell.py",
+      "bytes": 7636,
+      "sha256": "eb2a39a6d574a30b9e069f6e2b31ffc793b02d4e2fe5d11096a9eb69f374c684",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "eb2a39a6d574a30b9e069f6e2b31ffc793b02d4e2fe5d11096a9eb69f374c684"
+    },
+    {
+      "path": "research/v4_upper_j1_pell_verification.json",
+      "bytes": 2274,
+      "sha256": "b7ae16384858ea711886c6fb336154a4ba60366c95d38bb12b1643b2f2e54b79",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "b7ae16384858ea711886c6fb336154a4ba60366c95d38bb12b1643b2f2e54b79"
+    },
+    {
+      "path": "research/v4_upper_j1_pell_verify.py",
+      "bytes": 6574,
+      "sha256": "4809cefd68d7705631dbaf85431c5dc53e99298451505c48a9fa128bc4d71018",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "4809cefd68d7705631dbaf85431c5dc53e99298451505c48a9fa128bc4d71018"
+    },
+    {
+      "path": "research/v4_upper_j1_smooth_pell.md",
+      "bytes": 5841,
+      "sha256": "2f441ee3838101f6c5bb3d65ca3cf86dec7e088686d0d354d06550168fa0e306",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "2f441ee3838101f6c5bb3d65ca3cf86dec7e088686d0d354d06550168fa0e306"
+    },
+    {
+      "path": "research/v4_valuation_bound.smt2",
+      "bytes": 961,
+      "sha256": "ed09e8d499062276b33f1fb0675b70f7902f796cc7a22c961de30b1466753bd1",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ed09e8d499062276b33f1fb0675b70f7902f796cc7a22c961de30b1466753bd1"
+    },
+    {
+      "path": "research/v4_valuation_bound.z3proof",
+      "bytes": 11360,
+      "sha256": "7de51eafee372b67afb4bbb67463b147c4c7da53f2a8948557f761eac5982bbe",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "7de51eafee372b67afb4bbb67463b147c4c7da53f2a8948557f761eac5982bbe"
+    },
+    {
+      "path": "research/v4_valuation_synthesis.json",
+      "bytes": 814,
+      "sha256": "2c73c8a0dc7bf2cfd622895735cedd68441b98d7d8cb147ca7fbb029d79db2cf",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "2c73c8a0dc7bf2cfd622895735cedd68441b98d7d8cb147ca7fbb029d79db2cf"
+    },
+    {
+      "path": "research/v4_valuation_synthesis.py",
+      "bytes": 2554,
+      "sha256": "25ec55c82a6a930a6704abab59cb8f2f10a51abe562ce6e9a60151bf7fe841cf",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "25ec55c82a6a930a6704abab59cb8f2f10a51abe562ce6e9a60151bf7fe841cf"
+    },
+    {
+      "path": "research/v5_formal/OffsetThree.lean",
+      "bytes": 8022,
+      "sha256": "12f5a58145b4dd8e1bd30d5ceed4dc7ecc2b6fa8ef4223ef09f15fe32da6ad8f",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "12f5a58145b4dd8e1bd30d5ceed4dc7ecc2b6fa8ef4223ef09f15fe32da6ad8f"
+    },
+    {
+      "path": "research/v5_formal/README.md",
+      "bytes": 2915,
+      "sha256": "c204a7df57fd869538d4aa9452e4ed1d0304f58dae7fa7ec112af36adef773d8",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "c204a7df57fd869538d4aa9452e4ed1d0304f58dae7fa7ec112af36adef773d8"
+    },
+    {
+      "path": "research/v5_formal/kernel_check.json",
+      "bytes": 1678,
+      "sha256": "ecce2ed3d5882345562c67f6c19590149b261f91340b0c9ae5a9fbdceffcf6c0",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "5e532e2dc44149087f12b9f89c0a3781934a2eeada1c01177162114e2d14cf3b",
+      "publication_change": "Redacted execution paths and session identifiers only."
+    },
+    {
+      "path": "research/v5_formal/kernel_check.log",
+      "bytes": 707,
+      "sha256": "76550a8548f84abdae34c04e7c3fbdb8482617b2353014161bdecd84742a0139",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "76550a8548f84abdae34c04e7c3fbdb8482617b2353014161bdecd84742a0139"
+    },
+    {
+      "path": "research/v5_formal/lakefile.toml",
+      "bytes": 292,
+      "sha256": "09ac9f0dee423d4eb5827bdbe0f6150cc5d130cd7b13d307cabf00b218f99492",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "09ac9f0dee423d4eb5827bdbe0f6150cc5d130cd7b13d307cabf00b218f99492"
+    },
+    {
+      "path": "research/v5_formal/lean-toolchain",
+      "bytes": 25,
+      "sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c"
+    },
+    {
+      "path": "research/v5_l1_expanded_band.md",
+      "bytes": 6964,
+      "sha256": "3c5b5f040526e77dacd843ee57f864811733d1c72f9c3cf3b27f732ba07a9882",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "3c5b5f040526e77dacd843ee57f864811733d1c72f9c3cf3b27f732ba07a9882"
+    },
+    {
+      "path": "research/v5_l1_expanded_band.py",
+      "bytes": 5690,
+      "sha256": "3972cde1f1a74506fac22532994d538b29f28dd892391d64bdc688689c19af7f",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "3972cde1f1a74506fac22532994d538b29f28dd892391d64bdc688689c19af7f"
+    },
+    {
+      "path": "research/v5_l1_expanded_band_verification.json",
+      "bytes": 684,
+      "sha256": "1af415c638bc058657a909a426e2d23d2d80f5bdb8cb4643d4896b54468e5691",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "1af415c638bc058657a909a426e2d23d2d80f5bdb8cb4643d4896b54468e5691"
+    },
+    {
+      "path": "research/v5_l1_offset_four.md",
+      "bytes": 5103,
+      "sha256": "01dcd4e6e22eee80d37d06ab467d8bd2429efcca492002ebf19a568433907fa6",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "01dcd4e6e22eee80d37d06ab467d8bd2429efcca492002ebf19a568433907fa6"
+    },
+    {
+      "path": "research/v5_l1_offset_four.py",
+      "bytes": 5720,
+      "sha256": "fa39abbd331411a4b72c188378aff71b0fe52ff39d0ecfbb8af4135375c6d228",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "fa39abbd331411a4b72c188378aff71b0fe52ff39d0ecfbb8af4135375c6d228"
+    },
+    {
+      "path": "research/v5_l1_offset_four_prime_sieve.md",
+      "bytes": 4096,
+      "sha256": "9a44cd95e0e57e6836e73e4e700cea49ab5ce93523b544e37ee71a3834ab3407",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "9a44cd95e0e57e6836e73e4e700cea49ab5ce93523b544e37ee71a3834ab3407"
+    },
+    {
+      "path": "research/v5_l1_offset_four_verification.json",
+      "bytes": 695,
+      "sha256": "17299653d83ca233754301bb5d7fe06dd69c0bf124f2bf39f081b5c656e046da",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "17299653d83ca233754301bb5d7fe06dd69c0bf124f2bf39f081b5c656e046da"
+    },
+    {
+      "path": "research/v5_large_prime_localization.md",
+      "bytes": 10923,
+      "sha256": "1da0225eb3497b4c20f7adb0cba23db71de799672f394d417f52545301f22266",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "1da0225eb3497b4c20f7adb0cba23db71de799672f394d417f52545301f22266"
+    },
+    {
+      "path": "research/v5_large_prime_localization_checks.py",
+      "bytes": 6470,
+      "sha256": "ac08853c70474547db23fee90f6de20a5e529722359cfa86b21e1dfcf68b6c6a",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ac08853c70474547db23fee90f6de20a5e529722359cfa86b21e1dfcf68b6c6a"
+    },
+    {
+      "path": "research/v5_large_prime_localization_verification.json",
+      "bytes": 3275,
+      "sha256": "a53b565a441b0090a9040a6c8e333fb6ad88f7ee444592571ca0380a4e5e2265",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "a53b565a441b0090a9040a6c8e333fb6ad88f7ee444592571ca0380a4e5e2265"
+    },
+    {
+      "path": "research/v5_manifest.json",
+      "bytes": 4821,
+      "sha256": "5c3a80da9311b72801ca1430e6f41fa606f706c4597dd240e69e076b1972070d",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "5c3a80da9311b72801ca1430e6f41fa606f706c4597dd240e69e076b1972070d"
+    },
+    {
+      "path": "research/v5_offset_three_checks.py",
+      "bytes": 5972,
+      "sha256": "07b82c5fd1c5efcb3b01b5e65deffae0bc86134ef69b4d229f78c3616ea5c2c2",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "07b82c5fd1c5efcb3b01b5e65deffae0bc86134ef69b4d229f78c3616ea5c2c2"
+    },
+    {
+      "path": "research/v5_offset_three_independent_audit.md",
+      "bytes": 3929,
+      "sha256": "e4af75a8d9f310e2f88e66f8116272cfe1fe96adb1e430724ce87db78fc05bb7",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "e4af75a8d9f310e2f88e66f8116272cfe1fe96adb1e430724ce87db78fc05bb7"
+    },
+    {
+      "path": "research/v5_offset_three_structure.md",
+      "bytes": 8213,
+      "sha256": "4243dea9ca10e7c24bc7f4a20e1f2ddc9b7f37be223d3ccc353df0187d548709",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "4243dea9ca10e7c24bc7f4a20e1f2ddc9b7f37be223d3ccc353df0187d548709"
+    },
+    {
+      "path": "research/v5_offset_three_three_power.md",
+      "bytes": 7521,
+      "sha256": "515657d2692979ad77b245a41e3ca3c0b666fcc3b3e1b939665f8c909a14e04d",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "515657d2692979ad77b245a41e3ca3c0b666fcc3b3e1b939665f8c909a14e04d"
+    },
+    {
+      "path": "research/v5_offset_three_verification.json",
+      "bytes": 3002,
+      "sha256": "5f0e33ab44d16a95a07d2256003b997116d7111852ef402225924694ea3ec584",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "5f0e33ab44d16a95a07d2256003b997116d7111852ef402225924694ea3ec584"
+    },
+    {
+      "path": "research/v5_upper_large_prime.md",
+      "bytes": 3210,
+      "sha256": "83c23331521aa81d8540b650c564ca521e7f00b57d9222bf7ad911df06cd2bca",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "83c23331521aa81d8540b650c564ca521e7f00b57d9222bf7ad911df06cd2bca"
+    },
+    {
+      "path": "research/v6_common_divisor.md",
+      "bytes": 5553,
+      "sha256": "6dd90ec4e1e1a7ee7c35009af349e961229ad8067e63e2ff26081327d8b00881",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "6dd90ec4e1e1a7ee7c35009af349e961229ad8067e63e2ff26081327d8b00881"
+    },
+    {
+      "path": "research/v6_common_divisor_checks.py",
+      "bytes": 2565,
+      "sha256": "e0fb99210240a1cd7c31911751bde358a3476410867801a0f87d9b31c8fc3f72",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "e0fb99210240a1cd7c31911751bde358a3476410867801a0f87d9b31c8fc3f72"
+    },
+    {
+      "path": "research/v6_common_divisor_verification.json",
+      "bytes": 1410,
+      "sha256": "a2e6ecb8321def11f5e44cf41ccc0133f3f6c583b8739eebde462427b6e4bee1",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "a2e6ecb8321def11f5e44cf41ccc0133f3f6c583b8739eebde462427b6e4bee1"
+    },
+    {
+      "path": "research/v6_formal/CommonDivisor.lean",
+      "bytes": 7062,
+      "sha256": "dabf7bbf4237b38859437e929e9ffadae72e6b5b5a5da6f143cf24513f2d07c1",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "dabf7bbf4237b38859437e929e9ffadae72e6b5b5a5da6f143cf24513f2d07c1"
+    },
+    {
+      "path": "research/v6_formal/README.md",
+      "bytes": 1861,
+      "sha256": "679ab14803e114e0ca617e168ce0e7fdfeaf801c36696439891712da1ecbf138",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "679ab14803e114e0ca617e168ce0e7fdfeaf801c36696439891712da1ecbf138"
+    },
+    {
+      "path": "research/v6_formal/kernel_check.json",
+      "bytes": 1436,
+      "sha256": "0d506ee060f85a3ce403c031614a27daef64bbdef5d0ec2e0c3832180ff49622",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "96514da74bece8d5384deab6e9832eef0db60287dedb9c60a1fa46dc97fbcf6a",
+      "publication_change": "Redacted execution paths and session identifiers only."
+    },
+    {
+      "path": "research/v6_formal/kernel_check.log",
+      "bytes": 633,
+      "sha256": "1a161eb505118df9978585ba22f81fc87a3e6fcdea1232f67c10a793cdb0cf59",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "1a161eb505118df9978585ba22f81fc87a3e6fcdea1232f67c10a793cdb0cf59"
+    },
+    {
+      "path": "research/v6_formal/lakefile.toml",
+      "bytes": 298,
+      "sha256": "699a75170d27829e35d179dd4eba6e19354ea7dd4ed3e0260a0399526973cde8",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "699a75170d27829e35d179dd4eba6e19354ea7dd4ed3e0260a0399526973cde8"
+    },
+    {
+      "path": "research/v6_formal/lean-toolchain",
+      "bytes": 25,
+      "sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c"
+    },
+    {
+      "path": "research/v6_large_prime_cyclotomic.md",
+      "bytes": 9261,
+      "sha256": "e94872cb464f6eae693f46a17a9496a5df967d492bf0bee22eedef18d2530972",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "e94872cb464f6eae693f46a17a9496a5df967d492bf0bee22eedef18d2530972"
+    },
+    {
+      "path": "research/v6_large_prime_cyclotomic_checks.py",
+      "bytes": 5561,
+      "sha256": "762b6c2dc70a54be4024cd2e803e83d3540393609d5e2cfe72421282c68702ea",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "762b6c2dc70a54be4024cd2e803e83d3540393609d5e2cfe72421282c68702ea"
+    },
+    {
+      "path": "research/v6_large_prime_cyclotomic_verification.json",
+      "bytes": 4700,
+      "sha256": "8c7ba15379dc1b81af2e7c19661ddb2fa3a26e9762b46d702600fef459ace56b",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "8c7ba15379dc1b81af2e7c19661ddb2fa3a26e9762b46d702600fef459ace56b"
+    },
+    {
+      "path": "research/v6_manifest.json",
+      "bytes": 4994,
+      "sha256": "c3464ea459c1a85d6a00078f67bbbceffdb402ebe258656dbffcf48f440137ca",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "c3464ea459c1a85d6a00078f67bbbceffdb402ebe258656dbffcf48f440137ca"
+    },
+    {
+      "path": "research/v6_offset_composite.md",
+      "bytes": 10180,
+      "sha256": "6282ee563c28a12a3331c0257edc81e6eaf48d836030362efc0fb5bb99369bea",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "6282ee563c28a12a3331c0257edc81e6eaf48d836030362efc0fb5bb99369bea"
+    },
+    {
+      "path": "research/v6_offset_composite_certificates.json",
+      "bytes": 54769,
+      "sha256": "5744085478ff7608b832f6e1e1bc1391aab921c9332f60b3984fb68f20b77cad",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "5744085478ff7608b832f6e1e1bc1391aab921c9332f60b3984fb68f20b77cad"
+    },
+    {
+      "path": "research/v6_offset_composite_checks.py",
+      "bytes": 7072,
+      "sha256": "93503d178953ed34af8f7b43b7e43ce2c9cad19b72333b36987deefac100825f",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "93503d178953ed34af8f7b43b7e43ce2c9cad19b72333b36987deefac100825f"
+    },
+    {
+      "path": "research/v6_offset_composite_verification.json",
+      "bytes": 2214,
+      "sha256": "686b03a404c87cf5b3c9453953ba6c639f579f764594906e49b71da0ef1b4ed8",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "686b03a404c87cf5b3c9453953ba6c639f579f764594906e49b71da0ef1b4ed8"
+    },
+    {
+      "path": "research/v6_offset_prime_powers_checks.py",
+      "bytes": 7187,
+      "sha256": "15e0bedb5d86327b5a573346a88cad257c29fa0b37a2f7c943b654a79fbcca94",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "15e0bedb5d86327b5a573346a88cad257c29fa0b37a2f7c943b654a79fbcca94"
+    },
+    {
+      "path": "research/v6_offset_prime_powers_verification.json",
+      "bytes": 13354,
+      "sha256": "edf4622add51b7d2d13a389b8fdd7dfac2c54297273bc57c8ea2c66274c019df",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "edf4622add51b7d2d13a389b8fdd7dfac2c54297273bc57c8ea2c66274c019df"
+    },
+    {
+      "path": "research/v6_offset_prime_powers_wieferich.md",
+      "bytes": 12797,
+      "sha256": "262faff450b05b90dc6d56544db2692ce84001dada5ee285aa48fdbfbe0a8b54",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "262faff450b05b90dc6d56544db2692ce84001dada5ee285aa48fdbfbe0a8b54"
+    },
+    {
+      "path": "research/v7_fixed_offset_checks.py",
+      "bytes": 2426,
+      "sha256": "8100b62ea06e547a1ece64e7e2b1b4b1ef1e00c591761509b43c0b7192ce7ad7",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "8100b62ea06e547a1ece64e7e2b1b4b1ef1e00c591761509b43c0b7192ce7ad7"
+    },
+    {
+      "path": "research/v7_fixed_offset_divisors.md",
+      "bytes": 5314,
+      "sha256": "5c12724a789536cb930807238e7bd86eed598fed287511bb529ea40792b71604",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "5c12724a789536cb930807238e7bd86eed598fed287511bb529ea40792b71604"
+    },
+    {
+      "path": "research/v7_fixed_offset_verification.json",
+      "bytes": 4787,
+      "sha256": "03c77189a699824a07b20e1567fde42e8babd1b20034ad422d6b91d7c5bd12e1",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "03c77189a699824a07b20e1567fde42e8babd1b20034ad422d6b91d7c5bd12e1"
+    },
+    {
+      "path": "research/v7_large_prime_prime_power_extensions.md",
+      "bytes": 12909,
+      "sha256": "2b3e3918a3af1cb12227eab81eb11935450160e562fcb7d2e76e69919de08d05",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "2b3e3918a3af1cb12227eab81eb11935450160e562fcb7d2e76e69919de08d05"
+    },
+    {
+      "path": "research/v7_large_prime_prime_power_extensions_checks.py",
+      "bytes": 9823,
+      "sha256": "4aa691bb25c0b68edf0244fd6e1bdb33088272a85a15f1d1ac1532917a28ee7a",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "4aa691bb25c0b68edf0244fd6e1bdb33088272a85a15f1d1ac1532917a28ee7a"
+    },
+    {
+      "path": "research/v7_large_prime_prime_power_extensions_verification.json",
+      "bytes": 4172,
+      "sha256": "3e99de2fc9922843dd2a1e00ebe8df11a5c740abf026ce75382d3ded880f1eb0",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "3e99de2fc9922843dd2a1e00ebe8df11a5c740abf026ce75382d3ded880f1eb0"
+    },
+    {
+      "path": "research/v7_manifest.json",
+      "bytes": 3251,
+      "sha256": "dadf36291d48f9605fce4af33813be683d93152a80faf3746f71496fe9a062d1",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "dadf36291d48f9605fce4af33813be683d93152a80faf3746f71496fe9a062d1"
+    },
+    {
+      "path": "research/v7_offset_cofactor_three.md",
+      "bytes": 8581,
+      "sha256": "05c0a15cd4add55b0c535a7997015e88e9635839ecddb45f6a53064e637d8287",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "05c0a15cd4add55b0c535a7997015e88e9635839ecddb45f6a53064e637d8287"
+    },
+    {
+      "path": "research/v7_offset_cofactor_three_certificates.json",
+      "bytes": 15314,
+      "sha256": "f56014675224437c497427f54953fef7249227adb418f75232eb3db0bbcd9925",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "f56014675224437c497427f54953fef7249227adb418f75232eb3db0bbcd9925"
+    },
+    {
+      "path": "research/v7_offset_cofactor_three_checks.py",
+      "bytes": 8658,
+      "sha256": "486ff0ae0012ad04ae0861387046a7076c9634d0f091c95a6a806e7e7819d87a",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "486ff0ae0012ad04ae0861387046a7076c9634d0f091c95a6a806e7e7819d87a"
+    },
+    {
+      "path": "research/v7_offset_cofactor_three_verification.json",
+      "bytes": 685,
+      "sha256": "54d037154e7ec837ca658c68de2ab587953a1faa73598d830381c60825e051c5",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "54d037154e7ec837ca658c68de2ab587953a1faa73598d830381c60825e051c5"
+    },
+    {
+      "path": "research/v7_offset_dominant_prime.md",
+      "bytes": 3929,
+      "sha256": "cf8234909a916346ce51fbf929700c2f12988452700ff7ea31e58945853766e7",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "cf8234909a916346ce51fbf929700c2f12988452700ff7ea31e58945853766e7"
+    },
+    {
+      "path": "research/v7_offset_shifted_prime_powers.md",
+      "bytes": 16943,
+      "sha256": "fa4789c58aced491af3b86a4a9aec520c3fbbabbeec4cd96eb2470d93132e403",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "fa4789c58aced491af3b86a4a9aec520c3fbbabbeec4cd96eb2470d93132e403"
+    },
+    {
+      "path": "research/v7_offset_shifted_prime_powers_checks.py",
+      "bytes": 7895,
+      "sha256": "2d10fea72fb36cb332d363ecc6c1a12c937f5bcb5e9e5e2d722a3b0b77d09eec",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "2d10fea72fb36cb332d363ecc6c1a12c937f5bcb5e9e5e2d722a3b0b77d09eec"
+    },
+    {
+      "path": "research/v7_offset_shifted_prime_powers_verification.json",
+      "bytes": 11409,
+      "sha256": "0d58b9671418b1583d59c4956b715caabdda10639e31a549d95a709aac547565",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "0d58b9671418b1583d59c4956b715caabdda10639e31a549d95a709aac547565"
+    },
+    {
+      "path": "research/verification_adjacent_rows.json",
+      "bytes": 456,
+      "sha256": "d2214116906424ab1e7a6320aa7d2719ef2d2cc8e5aceeccef4740f07357c0ec",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "d2214116906424ab1e7a6320aa7d2719ef2d2cc8e5aceeccef4740f07357c0ec"
+    },
+    {
+      "path": "research/verification_equal_complement_upper.json",
+      "bytes": 388,
+      "sha256": "ba994df5742fdef2757620e0795b238ef61c8397ccf6e2d7fad6e80ef0f36baa",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "ba994df5742fdef2757620e0795b238ef61c8397ccf6e2d7fad6e80ef0f36baa"
+    },
+    {
+      "path": "research/verification_equal_effective_upper.json",
+      "bytes": 494,
+      "sha256": "01483e401fad969718dc26e37d4918c000156b1362d3a77d0bda71edee5f0322",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "01483e401fad969718dc26e37d4918c000156b1362d3a77d0bda71edee5f0322"
+    },
+    {
+      "path": "research/verification_prime_first_ell_one.json",
+      "bytes": 378,
+      "sha256": "524e889bc233acd9f6f9a2cf8aeccb17c1b7ba48551ac13b7614db035f12481e",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "524e889bc233acd9f6f9a2cf8aeccb17c1b7ba48551ac13b7614db035f12481e"
+    },
+    {
+      "path": "research/verification_result_N20.json",
+      "bytes": 786,
+      "sha256": "a9448510e2816632c73812bb241e8adb86787613ab129a082f82d0f65ae11884",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "a9448510e2816632c73812bb241e8adb86787613ab129a082f82d0f65ae11884"
+    },
+    {
+      "path": "research/verify_adjacent_rows.py",
+      "bytes": 2954,
+      "sha256": "3c1f1c8e7e2c2d58dae00371ae9f14a76f25e8291cca0683814bb6524e44b935",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "3c1f1c8e7e2c2d58dae00371ae9f14a76f25e8291cca0683814bb6524e44b935"
+    },
+    {
+      "path": "research/verify_certificate_bundle.py",
+      "bytes": 7744,
+      "sha256": "5ddf5fa0a65a7b184dde94e431e5602aeee3f5570bae8e776b38ee7d4c84b7ae",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "5ddf5fa0a65a7b184dde94e431e5602aeee3f5570bae8e776b38ee7d4c84b7ae"
+    },
+    {
+      "path": "research/verify_equal_complement_upper.py",
+      "bytes": 2178,
+      "sha256": "5f51a03a58b70ae2a809d7f1dbb050a25ee201c6e30f4406be06e6aa6e6df477",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "5f51a03a58b70ae2a809d7f1dbb050a25ee201c6e30f4406be06e6aa6e6df477"
+    },
+    {
+      "path": "research/verify_equal_effective_upper.py",
+      "bytes": 2087,
+      "sha256": "9aeb698a78abfb217c96340fbc8938f19fe756d004a50dca11ab8df124194e2e",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "9aeb698a78abfb217c96340fbc8938f19fe756d004a50dca11ab8df124194e2e"
+    },
+    {
+      "path": "research/verify_prime_first_ell_one.py",
+      "bytes": 1900,
+      "sha256": "6bde85903379b5f0e763e41bc195ae6bac76d602784f25fae11325541ba0ddcf",
+      "source_archive": "nested_binomial_v1_v7_complete.zip",
+      "archive_sha256": "6bde85903379b5f0e763e41bc195ae6bac76d602784f25fae11325541ba0ddcf"
+    },
+    {
+      "path": "research/PROGRESS_v8_ja.md",
+      "bytes": 10679,
+      "sha256": "58400eecb433c895d3da361f01ceba08466d65bb88e7f13e97d7a06b37f87f5c",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "58400eecb433c895d3da361f01ceba08466d65bb88e7f13e97d7a06b37f87f5c"
+    },
+    {
+      "path": "research/v8_composite_dominant_prime_powers.md",
+      "bytes": 10360,
+      "sha256": "547c4e4852f085fc52e2660db059b505ec78c18dd95c0ba149eb1bec81bed812",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "547c4e4852f085fc52e2660db059b505ec78c18dd95c0ba149eb1bec81bed812"
+    },
+    {
+      "path": "research/v8_composite_dominant_prime_powers_checks.py",
+      "bytes": 5391,
+      "sha256": "8deab089881088b8daf3e4d8293ebf5081a3e56202197d222b59d5a261ea8a85",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "8deab089881088b8daf3e4d8293ebf5081a3e56202197d222b59d5a261ea8a85"
+    },
+    {
+      "path": "research/v8_composite_dominant_prime_powers_verification.json",
+      "bytes": 2916,
+      "sha256": "2e2b3d07065b71597a36c7651dd42894e2e4a0fdb8583046a0d382c3152d9e91",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "2e2b3d07065b71597a36c7651dd42894e2e4a0fdb8583046a0d382c3152d9e91"
+    },
+    {
+      "path": "research/v8_composite_shifted_completion_audit.py",
+      "bytes": 3985,
+      "sha256": "f6b62e858251a11b4cb633b36f0981b9f2424fe5735de2d987d97afca8aac1bc",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "f6b62e858251a11b4cb633b36f0981b9f2424fe5735de2d987d97afca8aac1bc"
+    },
+    {
+      "path": "research/v8_composite_shifted_completion_audit_verification.json",
+      "bytes": 515,
+      "sha256": "0684296df679fedd25f0467a419f3a6b9e31177948966226aaf6119f91387e30",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "0684296df679fedd25f0467a419f3a6b9e31177948966226aaf6119f91387e30"
+    },
+    {
+      "path": "research/v8_cyclotomic_even_exponents.md",
+      "bytes": 11108,
+      "sha256": "eac8c8ce73334d2e15ea11abf1282741c7c7cc1a88a1b9bb8975b471f04e6c70",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "eac8c8ce73334d2e15ea11abf1282741c7c7cc1a88a1b9bb8975b471f04e6c70"
+    },
+    {
+      "path": "research/v8_cyclotomic_even_exponents_checks.py",
+      "bytes": 9009,
+      "sha256": "0bed19137c2ed5c5e7629017244138fc0bd85ba279433c1870c3da937ceb35df",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "0bed19137c2ed5c5e7629017244138fc0bd85ba279433c1870c3da937ceb35df"
+    },
+    {
+      "path": "research/v8_cyclotomic_even_exponents_verification.json",
+      "bytes": 9749,
+      "sha256": "3ab4f2800b3c0075f9d86d65449832431b034d84e386c543600ae18056f79fed",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "3ab4f2800b3c0075f9d86d65449832431b034d84e386c543600ae18056f79fed"
+    },
+    {
+      "path": "research/v8_formal/CubeCertificateLemmas.txt",
+      "bytes": 1820,
+      "sha256": "61a7de4d97b89b1505582bea363be311670ac0f748b64886fc16b88ec5b98cbe",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "61a7de4d97b89b1505582bea363be311670ac0f748b64886fc16b88ec5b98cbe"
+    },
+    {
+      "path": "research/v8_formal/CubeCertificates.lean",
+      "bytes": 138364,
+      "sha256": "7fb8e92456fc5808364183f9efa3d7cd8e65726c1e572f8f471541e305941e83",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "7fb8e92456fc5808364183f9efa3d7cd8e65726c1e572f8f471541e305941e83"
+    },
+    {
+      "path": "research/v8_formal/README.md",
+      "bytes": 3364,
+      "sha256": "ca0002e2eb8dfc83b9bfbb69f081f510fa661429067e38f968f6865fd6278222",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "ca0002e2eb8dfc83b9bfbb69f081f510fa661429067e38f968f6865fd6278222"
+    },
+    {
+      "path": "research/v8_formal/generate_certificate_source.py",
+      "bytes": 2489,
+      "sha256": "e498549b1f4c5c76950bda3d1c5d290604079683954167da0f51c35c27579055",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "e498549b1f4c5c76950bda3d1c5d290604079683954167da0f51c35c27579055"
+    },
+    {
+      "path": "research/v8_formal/kernel_check.json",
+      "bytes": 1428,
+      "sha256": "18c39aff3aead4d099b3797765bb14427620306fa17db47212b8738f14675315",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "18c39aff3aead4d099b3797765bb14427620306fa17db47212b8738f14675315"
+    },
+    {
+      "path": "research/v8_formal/kernel_check.log",
+      "bytes": 411,
+      "sha256": "11ed423e6abdd68f0da9da967577addceccef5aa7debdc7be3d8018b3034d58b",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "11ed423e6abdd68f0da9da967577addceccef5aa7debdc7be3d8018b3034d58b"
+    },
+    {
+      "path": "research/v8_formal/lakefile.toml",
+      "bytes": 307,
+      "sha256": "f6076e4852a62b46b01bf564cceb0d68e8b6fe392eadb854656d476e519033e1",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "f6076e4852a62b46b01bf564cceb0d68e8b6fe392eadb854656d476e519033e1"
+    },
+    {
+      "path": "research/v8_formal/lean-toolchain",
+      "bytes": 25,
+      "sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c"
+    },
+    {
+      "path": "research/v8_formal/source_mapping_check.json",
+      "bytes": 281,
+      "sha256": "58887cbb4d115bbd43b891ea55cd91f026151aeedcbe772022cb5ff39b86cae6",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "58887cbb4d115bbd43b891ea55cd91f026151aeedcbe772022cb5ff39b86cae6"
+    },
+    {
+      "path": "research/v8_gcd_defect_height.md",
+      "bytes": 4151,
+      "sha256": "e2754b81cedc76feba73f14658cdff923b39a409cd2982a765bdb59cf2b91d0b",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "e2754b81cedc76feba73f14658cdff923b39a409cd2982a765bdb59cf2b91d0b"
+    },
+    {
+      "path": "research/v8_manifest.json",
+      "bytes": 7491,
+      "sha256": "8609d2ea7fd6ee84f405445db4b41e9d7fe158a68317c6ccba46d38bcbf1fa00",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "8609d2ea7fd6ee84f405445db4b41e9d7fe158a68317c6ccba46d38bcbf1fa00"
+    },
+    {
+      "path": "research/v8_shifted_base_three.md",
+      "bytes": 3694,
+      "sha256": "6d1093041d667baedb02bbe1ffb6e1eef6c7e1b3e5ec0eaad91c402d1a657d4a",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "6d1093041d667baedb02bbe1ffb6e1eef6c7e1b3e5ec0eaad91c402d1a657d4a"
+    },
+    {
+      "path": "research/v8_shifted_base_three_checks.py",
+      "bytes": 3225,
+      "sha256": "1c5d44e111ff36b26f8b30f0b159f20dae1d904d0e49fc0b628f95883f4b5c75",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "1c5d44e111ff36b26f8b30f0b159f20dae1d904d0e49fc0b628f95883f4b5c75"
+    },
+    {
+      "path": "research/v8_shifted_base_three_verification.json",
+      "bytes": 1926,
+      "sha256": "ed74bd464602346157de2a412df93d62f9ddc5dec43438a291799eec10127975",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "ed74bd464602346157de2a412df93d62f9ddc5dec43438a291799eec10127975"
+    },
+    {
+      "path": "research/v8_shifted_prime_power_completion.md",
+      "bytes": 10367,
+      "sha256": "1ac2900e5fdea1dde8ff9eb37cdefa768c3e6d6eddb6eaaa668c67026bc41eb9",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "1ac2900e5fdea1dde8ff9eb37cdefa768c3e6d6eddb6eaaa668c67026bc41eb9"
+    },
+    {
+      "path": "research/v8_shifted_prime_power_completion_certificates.json",
+      "bytes": 365244,
+      "sha256": "4e70712950132c869f875bc26bb9fa14bc8c858969655294bea5e19758c44126",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "4e70712950132c869f875bc26bb9fa14bc8c858969655294bea5e19758c44126"
+    },
+    {
+      "path": "research/v8_shifted_prime_power_completion_checks.py",
+      "bytes": 8521,
+      "sha256": "c1e459a0d924f3428d6f5f33e11dc5dcea8a848a0057aa7385513115c32566a5",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "c1e459a0d924f3428d6f5f33e11dc5dcea8a848a0057aa7385513115c32566a5"
+    },
+    {
+      "path": "research/v8_shifted_prime_power_completion_verification.json",
+      "bytes": 1902,
+      "sha256": "41c2c7c6b71d66eb869aee3db3d0d2df0ab5cf92564dad40bd5f26b3a2cb46cc",
+      "source_archive": "nested_binomial_v8_addendum.zip",
+      "archive_sha256": "41c2c7c6b71d66eb869aee3db3d0d2df0ab5cf92564dad40bd5f26b3a2cb46cc"
+    }
+  ],
+  "omitted_generated_files": [
+    {
+      "path": "finite_prime_effective_index_certificates.json",
+      "bytes": 149990,
+      "sha256": "e75437ea8384891f96543878a2d5ed6abc07b7bf6ed0062c3126ef42f8c86da8"
+    },
+    {
+      "path": "finite_prime_outer_certificates.json",
+      "bytes": 5401367,
+      "sha256": "0764e15f5264ffdfe2fb85898d29acfc21828da283ff9af07128b023b88a4bb0"
+    },
+    {
+      "path": "finite_small_j_prime_certificates.json",
+      "bytes": 216390,
+      "sha256": "11db19f887a58aea9260b8079f48ebf7516d7e3e0bbfe7033035270998247d14"
+    },
+    {
+      "path": "hensel_certificates_N20.json",
+      "bytes": 203163056,
+      "sha256": "2e86a7a86dd46be8b231f0d379009bd1d275f376452e2ee6e764cc00bcd1337e"
+    },
+    {
+      "path": "modular_obstructions_N20.json",
+      "bytes": 3189343,
+      "sha256": "96c49599b0179dd0847be1e63aaf5d6ad5a598c32429869110b6a0abfbda2df9"
+    },
+    {
+      "path": "v4_ell_one_divisor_certificates.json",
+      "bytes": 6753239,
+      "sha256": "644b13b32c63650e0cf12cbc9f451cdf07f03796de91d97f695b7d2e2496bdb1"
+    },
+    {
+      "path": "v4_first_complement_two_lower_certificates.json",
+      "bytes": 2389913,
+      "sha256": "aa2ec4edc8bc0347d8cd9d5f326b114730133deb0cf09b9ee994e75b29bebf0a"
+    },
+    {
+      "path": "v4_lower_l1_band_certificates.json",
+      "bytes": 9781811,
+      "sha256": "b82380617732a85c4f92bddaff67ba9c6c1690f02f2e04da49dd3c3586b8dd03"
+    },
+    {
+      "path": "v4_lower_l1_single_top_certificates.json",
+      "bytes": 166248,
+      "sha256": "f54f1fc428b39974ebeffcce7f252f6cfb41088acddb0cf110468a9dc5264e05"
+    },
+    {
+      "path": "v4_upper_complement_two_dge3_certificates.json",
+      "bytes": 8106095,
+      "sha256": "719f8090b51407e6bf7a8f9ad54b76489cb70fbfacb55843d47c243fd572910f"
+    },
+    {
+      "path": "v4_upper_first_complement_two_ege3_certificates.json",
+      "bytes": 8112269,
+      "sha256": "774acdba55f880684e4006bad38f7fac6bb3b16198eeab30d0fec2141e187560"
+    },
+    {
+      "path": "v4_upper_j1_pell_certificates.json",
+      "bytes": 11353109,
+      "sha256": "128e778e9a5c6de11e697c8b4ed7e697d201b1345e90cf260cce0d2b5c534d51"
+    },
+    {
+      "path": "v4_upper_complement_two_j1.bin",
+      "bytes": 13843764,
+      "sha256": "ab4a1f4400ca9c4545a175db31b212deca4121d09603ab6e5a5b7f3a75260fcf"
+    },
+    {
+      "path": "v4_upper_complement_two_l1_extended.bin",
+      "bytes": 31880268,
+      "sha256": "5ec127d0e32ca1a43a7789e8115a8d8a7d10a784cace6830e02cf7f169fef144"
+    },
+    {
+      "path": "v5_l1_expanded_band_certificates.json",
+      "bytes": 6902150,
+      "sha256": "cddf422267205ffafd2e3472940048abf71a87500e1c0382163e746f2fe2c943"
+    },
+    {
+      "path": "v5_l1_offset_four_certificates.json",
+      "bytes": 4333049,
+      "sha256": "cb17bd9580f87aa017150fb33a3694b47d6f6f63a652a6a2e0373420686c98a4"
+    }
+  ],
+  "source_archives": [
+    {
+      "name": "nested_binomial_v1_v7_complete.zip",
+      "sha256": "a02415e5e96525f3f35cbf5855e1385ccc02bacc7cf49c1a23036ae8be4201d0",
+      "url": "https://github.com/corcondor/nested-binomial-equation/releases/download/v1-v7/nested_binomial_v1_v7_complete.zip"
+    },
+    {
+      "name": "nested_binomial_v8_addendum.zip",
+      "sha256": "564147f14beb26442342c87131a09b58f0f8e0f7e685d7c239fcc1f2033ea963",
+      "url": "https://github.com/corcondor/nested-binomial-equation/releases/download/v8/nested_binomial_v8_addendum.zip"
+    }
+  ]
+}
